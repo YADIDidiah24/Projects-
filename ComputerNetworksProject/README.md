@@ -71,6 +71,7 @@ Here, the objective was to design an IPv4 Network Subnetting Scheme and configur
 
 
 ![image](https://github.com/YADIDidiah24/Projects-/assets/94169481/559d2674-2ed5-404a-bf5c-8987042ebb20)
+
 ![image](https://github.com/YADIDidiah24/Projects-/assets/94169481/b7729232-d1c9-4c15-9e8e-6e560c8c31df)
 
 
